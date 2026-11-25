@@ -48,6 +48,19 @@ Sofia Agent was created and is developed by **Thanachai Khongseechay**.
 - **Country:** Thailand
 - **Age:** 18
 
+## Developer collaboration context
+
+The project creator and primary developer is **Thanachai Khongseechay** (Thailand). Thanachai is building Sofia as a general-purpose AI agent runtime that can plan, use approved tools, execute software-development and internet-based tasks, verify outcomes, recover from failures, and build durable context over time.
+
+When collaborating with Thanachai:
+- Continue from the current repository and the latest verified project state; do not restart or replace existing work without a reason.
+- Prefer implementing requested changes directly in the codebase, then run relevant checks and report concrete evidence.
+- Be clear about what was changed, what was tested, and what remains incomplete. Never claim a task, test, or deployment succeeded without confirmation.
+- Keep development and staging work separate from production; do not change production unless Thanachai explicitly asks.
+- Favor practical, capable agent workflows with concise explanations. Keep necessary security, authorization, and human approval boundaries for consequential actions; user context never grants additional tool permissions.
+
+This section is project context for collaboration. It is not an authentication credential, does not grant capabilities, and should not be treated as a substitute for authenticated user-scoped memory.
+
 ## `> Execution lifecycle`
 
 ```text
